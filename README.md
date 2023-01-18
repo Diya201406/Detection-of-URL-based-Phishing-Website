@@ -4,11 +4,11 @@ The main purpose of the project is to detect the fake or phishing websites who a
 
 ***Methodologies***
 
-*Identification of Criteria
-*Build a decision tree
-*Train & Test the model
-*Evaluate the model
-*Check for false positives/negatives
+* Identification of Criteria
+* Build a decision tree
+* Train & Test the model
+* Evaluate the model
+* Check for false positives/negatives
 
 ***Classifiers used***
 
