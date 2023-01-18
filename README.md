@@ -12,10 +12,10 @@ The main purpose of the project is to detect the fake or phishing websites who a
 
 ***Classifiers used***
 
-*Gaussian Naive Bayes Classification Model
-*AdaBoost Classification Model
-*Stochastic Gradient Descent Classification Model
-*Extra Trees Classification Model
-*Random Forest Classification Model
+* Gaussian Naive Bayes Classification Model
+* AdaBoost Classification Model
+* Stochastic Gradient Descent Classification Model
+* Extra Trees Classification Model
+* Random Forest Classification Model
 
-**The Random Forest Classifier is giving the highest accuracy of 91.48%.
+** The Random Forest Classifier is giving the highest accuracy of 91.48%.
